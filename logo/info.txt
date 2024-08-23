@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Neuton-Extralight
+font link: https://fonts.google.com/specimen/Neuton
+font author: Brian Zick
+font author site: https://brianskywalker.deviantart.com/
+
+
+icon designer: Sergey Demushkin
+icon designer link: /mockturtle
+        
+{"bg":"#FFE9E6","icon-gradient-0":"#FF5A20","icon-gradient-1":"#FFACC7","font":"#3A1C18","slogan":"#4e302c"}
+      
